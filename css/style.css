@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+section {
+    margin-bottom: 60px;
+    
+    padding: 50px 20px;
+
+    /* 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px; 
+    */
+
+    border-bottom: 1px solid black;
+
+    /* 
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black; 
+    */
+}
+
+h1, h2, h3 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.banner {
+    background-color: #b7c2ff;
+    padding: 50px;
+}
